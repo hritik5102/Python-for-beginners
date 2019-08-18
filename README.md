@@ -16,6 +16,7 @@
   - [lambda](#image)
   - [filter](#image)
   - [Unpacking](#GIF)
+  - [Enumerate](#GIF)
   - [Dictionaries](#code-blocks)
   - [Function](#tables)
   - [Parameter and Arguments](#task-list)
